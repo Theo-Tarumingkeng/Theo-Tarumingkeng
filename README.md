@@ -9,7 +9,7 @@ But if you have something to ask or a complaint, I suggest you submit it through
 <img src="https://github.com/Theo-Tarumingkeng/Theo-Tarumingkeng/assets/71216904/271ff30a-c261-4792-9b4d-4c80555aa188" alt="Gustafo Fring" width="280" height="200">
 
 
-P.S : 🚧 I’m currently working on this page🚧 
+P.S : 🚧 I’m currently working on this page, so just ignore the GIF 🥴🚧 
 
 
 <!--![BreakingBadBetterCallSaulGIF](https://github.com/Theo-Tarumingkeng/Theo-Tarumingkeng/assets/71216904/271ff30a-c261-4792-9b4d-4c80555aa188)-->
