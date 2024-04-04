@@ -1,17 +1,18 @@
-### Hi there 👋, my name is Theo
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### Hi there 👋, my name is Theo
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+This is my portfolio, feel free to check it out. 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+- You can find me on **[LinkedIn](https://www.linkedin.com/in/theotarumingkeng/)**
+- Currently I'm focusing on Data Analysis, Data Science, and Machine Learning
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/theotarumingkeng/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+But if you have something to ask or a complaint, I suggest you submit it through my email ![Gustavo Fring](https://github.com/Theo-Tarumingkeng/Theo-Tarumingkeng/blob/main/GusFringGIF.gif)
+
+P.S : 🚧 I’m currently working on this page🚧 
 
 
 
-🚧 I’m currently working on this page.  
+
+
 
 
 
