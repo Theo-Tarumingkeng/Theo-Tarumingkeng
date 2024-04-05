@@ -1,4 +1,4 @@
-# Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, just call me Theo
+# Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I am Theo
 
 This is my portfolio, feel free to check it out.
 
